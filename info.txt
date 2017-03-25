@@ -1,1 +1,1 @@
-regu.go    ;      `\n` .
+regu.go is working; notepad (on Windows) does not process `\n` correctly.
